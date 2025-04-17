@@ -41,4 +41,5 @@
   - `smtplib` for email notifications
   - `schedule` for in-app alerts.
  
- 
+ This project is maintained and developed by Khatera. 
+ Gmail: khatira.walizada1@gmail.com
